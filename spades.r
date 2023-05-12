@@ -25,7 +25,7 @@ gg_spades <- ggplot(data.table(x=c(-1,1),y=c(-1,1)),aes(x=x,y=y))+
   geom_text(aes(x=0,y=0),label="SPA     ES",size=16,fontface="bold",color="limegreen")+
   geom_text(aes(x=0,y=-.85),label="Semi-Periodic Agricultural & Development Economics Symposium",size=2.2,family="Segoe Print",fontface="bold",color="slategray")+
   theme_void()+
-  theme(panel.background = element_rect(fill="white"))
+  theme(panel.background=element_rect(fill="white",color=NA))
 
 gg_comb <- ggdraw(gg_spades) +
   draw_image(d,scale=0.85,x=1.14,y=.22,hjust=1,halign=0,valign=0,clip="off")
