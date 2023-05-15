@@ -1,8 +1,6 @@
-# SPADERS
-
 This repository hosts material for the Semi-Periodic Agricultural &amp; Development Economics Research Symposium (SPADERS) held at the University of Sydney. 
 
-The inaugural meeting will happen on 19 May 2023. 
+The inaugural meeting will take place at the School of Economics of the University of Sydney on 19 May 2023. 
 
 As the name of the event suggests, this is envisaged to be a series of workshops held semi-periodically, often timed to maximize the presence of international visitors. 
 
